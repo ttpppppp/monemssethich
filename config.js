@@ -12,6 +12,7 @@ var config = {
         "Chúc em tất cả <3",      
         "Em Còn nhớ ăn ở quán vỉa hè không",
         "Năm nay phải ăn ngon hơn nhé",
+        "Đi ăn với anh nhé",
         "...",
         "....",
         ".....",
