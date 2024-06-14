@@ -1,6 +1,17 @@
 var config = {
     // Array of greeting texts
     texts: [
+        "Em hãy nhắm mắt lại và ước nha! 10s đếm ngược",
+        "10",
+        "9",
+        "8",
+        "7",
+        "6",
+        "5",
+        "4",
+        "3",
+        "2",
+        "1",
         "Gửi tặng em",                
         "Cô gái dễ thương",           
         "Hôm nay là sinh nhật của em",
